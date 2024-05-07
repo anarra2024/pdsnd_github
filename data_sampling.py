@@ -2,9 +2,9 @@ import csv
 
 def read_csv(file_path):
     """
-    Read data from a CSV file.
+    This method reads data from a CSV file.
     
-    Args:
+    Argumentss:
         file_path (str): Path to the CSV file.
         
     Returns:
