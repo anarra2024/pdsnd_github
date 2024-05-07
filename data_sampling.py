@@ -29,8 +29,8 @@ def process_data(data):
         print(row)
 
 if __name__ == "__main__":
-    # Path to the CSV file
-    csv_file_path = "data.csv"
+    # Path to the CSV file - sample_data.csv
+    csv_file_path = "sample_data.csv"
     
     # Read data from CSV file
     data = read_csv(csv_file_path)

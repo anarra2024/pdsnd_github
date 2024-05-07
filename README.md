@@ -9,8 +9,8 @@ The Project title is Data Sampling.
 The 'Data Sampling' project demos us to read and process the data from the sample_data csv file.
 
 ### Files used
-data_sampling.py
-sample_data.csv
+data_sampling.py : Python file
+sample_data.csv : CSV file
 
 ### Credits
 Udacity github project.
