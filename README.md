@@ -6,7 +6,7 @@ This project was created on May 7, 2024.
 Project Name: Data Sampling
 
 ### Description
-This project takes the sample data and processes it.
+The 'Data Sampling' project demos us to read and process the data from the sample_data csv file.
 
 ### Files used
 data_sampling.py : Python file
