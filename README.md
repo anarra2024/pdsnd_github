@@ -15,3 +15,5 @@ data_sampling.py and sample_data.csv
 ### Credits
 Udacity github project.
 
+### Project Details
+In this particular project, the python file processes information from sample_data csv file.
