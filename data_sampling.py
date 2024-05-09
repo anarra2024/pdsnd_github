@@ -19,9 +19,9 @@ def read_csv(file_path):
 
 def process_data(data):
     """
-    Process the data read from the CSV file.
+    This method reads the data read from the CSV file.
     
-    Args:
+    Argumentss:
         data (list): List of dictionaries representing the CSV data.
     """
     # Example processing: print the data
@@ -30,7 +30,7 @@ def process_data(data):
 
 if __name__ == "__main__":
     # Path to the CSV file
-    csv_file_path = "data.csv"
+    csv_file_path = "sample_data.csv"
     
     # Read data from CSV file
     data = read_csv(csv_file_path)
